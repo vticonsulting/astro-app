@@ -1,0 +1,22 @@
+{
+  "name": "@cominex/docs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev --port=3003",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@docsearch/react": "^1.0.0-alpha.28"
+  },
+  "devDependencies": {
+    "astro": "^0.26.0",
+    "@astrojs/renderer-preact": "^0.5.0",
+    "@astrojs/renderer-react": "^0.5.0",
+    "@astrojs/renderer-solid": "^0.4.0",
+    "@astrojs/renderer-svelte": "^0.5.2",
+    "@astrojs/renderer-vue": "^0.4.0"
+  }
+}

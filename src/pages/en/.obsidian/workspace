@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e8b25cdaa6f6a490",
+    "type": "split",
+    "children": [
+      {
+        "id": "03741a8d67b914c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "service-types.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d45f4f37e79c4392",
+    "type": "split",
+    "children": [
+      {
+        "id": "19b87b78be9644b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db0a750b58dce41c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "40a94fd9d7c4b4c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a1da5d39a53900e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bab15e2c707fe543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bde86b4f60c8ef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "service-types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "03741a8d67b914c5",
+  "lastOpenFiles": [
+    "service-types.md",
+    "guide.md",
+    "property-inspection-form.md",
+    "pif-refresh.md",
+    "introduction.md",
+    "features.md",
+    "example.md",
+    "admin.md",
+    "hancock-claims.md",
+    "cominex.md"
+  ]
+}
